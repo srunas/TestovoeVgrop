@@ -6,10 +6,9 @@
 1. wp-content\themes\twentytwentyfive\functions.php
 2. wp-content\themes\twentytwentyfive\page-product-filter.php
 
-
 Итоги работы (Несколько вариаций применения фильтров): 
 
-![изображение](https://github.com/user-attachments/assets/121a7080-1bba-4965-8053-b42ea1a3049c)
+![изображение](https://github.com/user-attachments/assets/d1c6ae32-2d63-4d1c-9fff-bbf0c014bef2)
 
 ![изображение](https://github.com/user-attachments/assets/6e907160-40e7-4967-97cb-a0bb062facf9)
 
